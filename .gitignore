@@ -1,0 +1,12 @@
+#db
+db.sqlite3
+db.sqlite3-journal
+
+#virtual venv
+venv/
+
+#cache
+__pycache__/
+
+#log
+*.log

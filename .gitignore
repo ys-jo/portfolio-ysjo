@@ -13,3 +13,6 @@ __pycache__/
 
 # log
 *.log
+
+# for local test
+_media/
